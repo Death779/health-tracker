@@ -1,0 +1,6 @@
+{
+  "name": "Мониторинг приема медикаментов",
+  "description": "Приложение для отслеживания состояния здоровья пациентов, регистрации симптомов, жизненных показателей и соблюдения графика приема лекарств.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
